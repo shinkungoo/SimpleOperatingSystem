@@ -1,2 +1,2 @@
-# First_OS
-This is a practice
+# OS Project
+This is the assignment in the course related to the OS
